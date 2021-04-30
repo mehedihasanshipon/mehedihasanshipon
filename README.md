@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Javascript,React JS,ES6,HTML5,CSS3,Node,Mongo and many more as I can. :smile:
 - 👯 2021 Goals: Learn React, React Native, Node, GraphQL,NuxtJs,Material UI,Tailwind-css.
 - 📫 How to reach me: @ mehedihasanshipon.mh@gmail.com
-- ⚡ Fun fact: I love problem solving and Watching Moviesgifd
+- ⚡ Fun fact: I love problem solving and Watching Movies.
 
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/mehedi-hasan-shipon/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehedi-hasan-shipon/)
