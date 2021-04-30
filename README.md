@@ -3,7 +3,6 @@
 
 
 ### I am a  ✨ JavaScript Learner, New Teach Explorer, MERN Stack Developer ✨
-___________________________________________________________________________
 
 - 🔭 I’m currently working on MERN stack Web Development !
 - 🌱 I’m currently learning Javascript,React JS,ES6,HTML5,CSS3,Node,Mongo and many more as I can. :smile:
@@ -12,4 +11,4 @@ ___________________________________________________________________________
 - ⚡ Fun fact: I love problem solving and Watching Moviesgifd
 
 ### Connect with me:
-
+[Linkedin](https://www.linkedin.com/in/mehedi-hasan-shipon/)
