@@ -2,7 +2,7 @@
 
 
 
-###I am a  ✨ JavaScript Learner, New Teach Explorer, MERN Stack Developer ✨
+### I am a  ✨ JavaScript Learner, New Teach Explorer, MERN Stack Developer ✨
 
 - 🔭 I’m currently working on MERN stack Web Development !
 - 🌱 I’m currently learning Javascript,React JS,ES6,HTML5,CSS3,Node,Mongo and many more as I can. :smile:
