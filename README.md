@@ -4,8 +4,8 @@
 
 ### I am a  ✨ JavaScript Learner, New Teach Explorer, MERN Stack Developer ✨
 
-- 🌱 I’m currently working with Javascript,ES6,React JS,Vue JS,HTML5,CSS3,Tailwind-css,Larael,Mysql and many more as I can. :smile:
-- 👯 2022 Goals: Learn Node JS, GraphQL, NuxtJs, Material UI,
+- 🌱 I’m currently working with Javascript,ES6,React JS,Vue JS,HTML5,CSS3,Tailwind-css,Laravel and Mysql.
+- 👯 2022 Goals: Learn Node JS, GraphQL, NuxtJs, Material UI, and many more as I can. 😄
 - 📫 How to reach me: @ mehedihasanshipon.mh@gmail.com
 - ⚡ Fun fact: I love problem solving and Watching Movies.
 
