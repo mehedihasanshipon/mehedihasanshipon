@@ -34,10 +34,4 @@
 
 <br></br>
 
-## Some Projects I worked On:-
-- [Jelly Net](https://assignment-11-a90a7.web.app/)
-- [All Football](https://allfootball.netlify.app/home)
-- [Pick-A-Book](https://book-shops-42afb.web.app/)
-
-<img width="550" alt="Mehedi Hasan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mehedihasanshipon&show_icons=true"/>
 
