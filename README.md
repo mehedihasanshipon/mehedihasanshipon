@@ -14,8 +14,6 @@
 
 ### 📑 [Resume of Mehedi Hasan](https://drive.google.com/file/d/1tp8l9hFHk5S2M8voFL0OYjhssEgR8ARW/view?usp=sharing)
 
-### [Portfolio](https://mehedi-hasan-shipon.web.app/)
-
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,10 +32,4 @@
 
 <br></br>
 
-## Some Projects I worked On:-
-- [Jelly Net](https://assignment-11-a90a7.web.app/)
-- [All Football](https://allfootball.netlify.app/home)
-- [Pick-A-Book](https://book-shops-42afb.web.app/)
-
-<img width="550" alt="Mehedi Hasan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mehedihasanshipon&show_icons=true"/>
 
