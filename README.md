@@ -5,7 +5,7 @@
 ### 🚀 Backend-Focused Developer & Full-Stack Problem Solver 🚀
 
 - 🌱 Expert in both PHP and JavaScript, specializing in backend development with Laravel, Node.js, and React.js.
-- 💼 Over 3 years of hands-on experience with Laravel, React.js, HTML5, CSS3, Tailwind CSS, MySQL, and PostgreSQL.
+- 💼 Over 3 years of hands-on experience with Laravel,Node js, React.js, HTML5, CSS3, Tailwind CSS, MySQL, and PostgreSQL.
 - 📬 Reach out at: mehedihasanshipon.mh@gmail.com
 - ⚡ Fun fact: Passionate about tackling complex challenges…and I’m a movie enthusiast! 🎬
 
