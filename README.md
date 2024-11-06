@@ -2,12 +2,12 @@
 
 
 
-### I am a  ✨ JavaScript Learner, New Teach Explorer ✨
+### 🚀 Backend-Focused Developer & Full-Stack Problem Solver 🚀
 
-- 🌱 I’m currently working with Laravel,React JS,HTML5,CSS3,Tailwind-css,Mysql and PostgreSQL.
-- 👯 2022 Goals: Learn Node JS, GraphQL, NuxtJs, Material UI, and many more as I can. 😄
-- 📫 How to reach me: @ mehedihasanshipon.mh@gmail.com
-- ⚡ Fun fact: I love problem solving and Watching Movies.
+- 🌱 Expert in both PHP and JavaScript, specializing in backend development with Laravel, Node.js, and React.js.
+- 💼 Over 3 years of hands-on experience with Laravel, React.js, HTML5, CSS3, Tailwind CSS, MySQL, and PostgreSQL.
+- 📬 Reach out at: mehedihasanshipon.mh@gmail.com
+- ⚡ Fun fact: Passionate about tackling complex challenges…and I’m a movie enthusiast! 🎬
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehedi-hasan-shipon/)
